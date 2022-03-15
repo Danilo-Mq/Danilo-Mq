@@ -17,7 +17,7 @@
   <img align="center" alt="Danilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Danilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!--<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
-  <img align="right" alt="Danilo-valknut" src="https://im2.ezgif.com/tmp/ezgif-2-8ba5e4d1fd39.gif">
+  <img align="right" alt="Danilo-valknut" width="170" height="170" src="https://steamuserimages-a.akamaihd.net/ugc/1010441267298395808/A2B8D1093CAFE7BF4BB136FC7405D585698478E1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 </div>
 
   ##
