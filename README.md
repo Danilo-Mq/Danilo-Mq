@@ -5,6 +5,9 @@
 - 😄 Pronouns: Ele/Dele
 - 💻 Portifólio: Olá Visitante! Como está ? Que tal dar entar em meus repositórios e dar uma olhada nos meus projetos ? Tenho certeza que irá gostar! 😉
 
+
+
+
  <div>
   <a href="https://github.com/Danilo-Mq">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danilo-Mq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
