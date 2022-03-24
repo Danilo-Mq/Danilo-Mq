@@ -3,6 +3,7 @@
 - 🔭 Atualmente não trbalho dentro da minha área, mas estou em busca do meu primeiro estágio.
 - 🌱 Estudando Front-End e Back-End
 - 😄 Pronouns: Ele/Dele
+- 💻 Portifólio: Olá Visitante! Como está ? Que tal dar entar em meus repositórios e dar uma olhada nos meus projetos ? Tenho certeza que irá gostar! 😉
 
  <div>
   <a href="https://github.com/Danilo-Mq">
