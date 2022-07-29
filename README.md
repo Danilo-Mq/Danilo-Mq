@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Danilo Marques
 
 - 🔭 Atualmente não trbalho dentro da minha área, mas estou em busca do meu primeiro estágio.
-- 🌱 Estudando Front-End e Back-End
+- 🌱 Estudando C# - Back-End
 - 😄 Pronouns: Ele/Dele
 - 💻 Portifólio: Olá Visitante! Como está ? Que tal dar entar em meus repositórios e dar uma olhada nos meus projetos ? Tenho certeza que irá gostar! 😉
 
