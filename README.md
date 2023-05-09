@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Danilo Marques
 
-- 🔭 Atualmente não trbalho dentro da minha área, mas estou em busca do meu primeiro estágio.
+- 🔭 Atualmente não trbalho dentro da minha área, mas estou em busca do meu primeiro estágio. Minha principal frente de performance é em C#/.NET, já tendo realizado alguns projetos próprios para aprofundamento no segmento. Em meu backlog de estudos estão as frentes de Banco de Dado se Mobile(especificamente Xamarin/.NET MAUAI).
 - 🌱 Estudando C# - Back-End
 - 😄 Pronouns: Ele/Dele
 - 💻 Portifólio: Olá Visitante! Como está ? Que tal dar entar em meus repositórios e dar uma olhada nos meus projetos ? Tenho certeza que irá gostar! 😉
