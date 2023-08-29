@@ -11,7 +11,7 @@
  <div>
   <a href="https://github.com/danilo-Mq">
   <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilo-Mq)](https://github.com/Danilo-Mq/github-readme-stats)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-Mq&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilo-Mq&show_icons=true&theme=radical)"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Danilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
