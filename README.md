@@ -9,14 +9,12 @@
 
 
  <div>
-  <a href="https://github.com/Danilo-Mq">
-  <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilo-Mq)](https://github.com/Danilo-Mq/github-readme-stats)"/>
+  <a href="https://github.com/danilo-Mq">
+  <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilo-Mq)](https://github.com/danilo-Mq/github-readme-stats)"/>
   <!--<img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilo-Mq&show_icons=true&theme=radical)/>-->
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Danilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <!--<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
-  <!--<img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
   <img align="center" alt="Danilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Danilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Danilo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
