@@ -9,9 +9,9 @@
 
 
  <div>
-  <a href="https://github.com/Danilo-Mq">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danilo-Mq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Mq&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/danilo-Mq">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilo-Mq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-Mq&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Danilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
